@@ -52,6 +52,8 @@ Go back to [github](https://github.com/blancahouse/casablanca/) and create a pul
 
 Wait for a reviewer to look at your changes and approve.
 
+If git is not your thing, click the **Create new file** button in our [github](https://github.com/blancahouse/casablanca).
+
 ## Help?
 
 Email casablanca@techqueria.org if you have questions or need help getting started, we're happy to help with anything,
