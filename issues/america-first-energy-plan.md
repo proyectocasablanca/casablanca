@@ -4,19 +4,20 @@ name: An America First Energy Plan
 layout: issues
 ---
 
-# An America First Energy Plan
+# Un Plan Energético Que Pone América Primero 
 
-Energy is an essential part of American life and a staple of the world economy. The Trump Administration is committed to energy policies that lower costs for hardworking Americans and maximize the use of American resources, freeing us from dependence on foreign oil.
+La energía es una parte esencial de la vida Americana y un foco de la economía global. La Administración de Trump esta comprometida a las políticas energéticas que bajen el costo que pagan los Americanos trabajadores y que maximiza el uso de los recursos Americanos, liberándonos de la dependencia del petróleo extranjero. 
 
-For too long, we’ve been held back by burdensome regulations on our energy industry. President Trump is committed to eliminating harmful and unnecessary policies such as the Climate Action Plan and the Waters of the U.S. rule. Lifting these restrictions will greatly help American workers, increasing wages by more than $30 billion over the next 7 years.
+Ha pasado mucho tiempo que nuestra industria energética ha sido comprometida por regulaciones pesadas. El Presidente Trump esta comprometido a eliminar las políticas innecesarias y perjudiciales como el Climate Action Plan y la regla de Waters of the US. Levantando estas restricciones ayudara a los trabajadores Americanos, levantando salarios mas de $30 billones en los próximos 7 años. 
 
-Sound energy policy begins with the recognition that we have vast untapped domestic energy reserves right here in America. The Trump Administration will embrace the shale oil and gas revolution to bring jobs and prosperity to millions of Americans. We must take advantage of the estimated $50 trillion in untapped shale, oil, and natural gas reserves, especially those on federal lands that the American people own. We will use the revenues from energy production to rebuild our roads, schools, bridges and public infrastructure. Less expensive energy will be a big boost to American agriculture, as well.
+Una política energética sana comienza con el reconocimiento de que tenemos reservas energéticas domesticas vastas sin explotar aquí en EEUU. La administración de Trump quiere aprovecharse de una revolución de petróleo y gas para traer trabajos y prosperidad a millones de Americanos. Tenemos que tomar ventaja de los estimados $50 trillones de  reservas de petróleo y gas natural, especialmente las que están en tierras federales que les pertenece a los Americanos. Usaremos los ingresos de la producción energética para reconstruir nuestras carreteras, escuelas, puentes, y infraestructura publicas. La energía barata ayudara a la agricultura Americana también. 
 
-The Trump Administration is also committed to clean coal technology, and to reviving America’s coal industry, which has been hurting for too long.
+La Administración de Trump también esta comprometida con la tecnología de  carbón limpio y a revivir la industria de carbón Americana que ha estado sufriendo por mucho tiempo. 
 
-In addition to being good for our economy, boosting domestic energy production is in America’s national security interest. President Trump is committed to achieving energy independence from the OPEC cartel and any nations hostile to our interests. At the same time, we will work with our Gulf allies to develop a positive energy relationship as part of our anti-terrorism strategy.
+Además de tener beneficios económicos, incrementar la producción energética esta en el interés de la seguridad nacional. El Presidente Trump esta comprometido ha lograr la independencia energética del cartel de OPEC y cualquier país que es hostil a nuestro intereses. Al mismo tiempo, trabajaremos con nuestros aliados en el Golfo pérsico para desarrollar una relación energética positiva como parte de nuestra estrategia anti-terrorista. 
 
-Lastly, our need for energy must go hand-in-hand with responsible stewardship of the environment. Protecting clean air and clean water, conserving our natural habitats, and preserving our natural reserves and resources will remain a high priority. President Trump will refocus the EPA on its essential mission of protecting our air and water.
+Finalmente, nuestro necesidades energías tiene que complementar nuestra responsabilidad con el medio ambiente. Proteger el aire y las aguas, nuestros medio ambiente, nuestras reservas y recursos será una prioridad. El Presidente Trump reenfocara al EPA en su misión esencial de proteger nuestro aire y aguas. 
 
-A brighter future depends on energy policies that stimulate our economy, ensure our security, and protect our health. Under the Trump Administration’s energy policies, that future can become a reality.
+Un futuro brillante depende de políticas energéticas que estimulan nuestra economía, aseguran nuestra seguridad y protegen nuestro bienestar. La Administración de Trump hará ese futuro una realidad. 
+
 
