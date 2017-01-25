@@ -19,3 +19,4 @@ In addition to being good for our economy, boosting domestic energy production i
 Lastly, our need for energy must go hand-in-hand with responsible stewardship of the environment. Protecting clean air and clean water, conserving our natural habitats, and preserving our natural reserves and resources will remain a high priority. President Trump will refocus the EPA on its essential mission of protecting our air and water.
 
 A brighter future depends on energy policies that stimulate our economy, ensure our security, and protect our health. Under the Trump Administration’s energy policies, that future can become a reality.
+
