@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta charset="utf-8">
+    
+      <title>Contributing</title>
+      <meta name="description" content="Este proyecto pretende proveer el contenido del website whitehouse.gov para la comunidad hispanoparlante, e intenta ser lo más neutral posible, de ninguna forma busca endosar a la administración actual, o mostrar soporte hacia un partido politico o individuos.">
+      <meta name="author" content="casablanca">
+    
+      <link rel="stylesheet" href="/css/flatly.min.css">
+      <link rel="stylesheet" href="/sass/main.css">
+    
+      <!--[if lt IE 9]>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+      <![endif]-->
+    </head>
+    <body>
+        <header class="header">
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">Casa Blanca</a>
+                    </div>
+                    <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <!--<li ><a href="/documentation/commands/">Usage</a></li>-->
+                    </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
+            </nav>
+        </header>
+        <main class="container">
+          <h1 id="contributing">Contributing</h1>
+<h2 id="what-">What?</h2>
+<p>This is a repo that keeps Spanish translations of pages found in the whitehouse.gov site during the Trump administration, which up to this date has not made Spanish version of its site available. It is an independent effort to crowdsource translation and provide it as a resource to Spanish speakers. </p>
+<h2 id="rules">Rules</h2>
+<p>There are a few basic ground-rules for contributors:</p>
+<ol>
+<li><strong>No <code>--force</code> pushes</strong> or modifying the Git history in any way.</li>
+<li><strong>Non-master branches</strong> for ongoing work.</li>
+<li><strong>Translations</strong> are subject to <strong>internal pull-requests</strong> for feedback from other contributors/editors. Each translation should be done in a designated markdown file named after the resource ID of the page as listed under the <code>whitehouse.gov</code> site. Each markdown file will have this link as reference.<br><strong>Example:</strong>
+<code>america-first-energy.md</code> for <code>whitehouse.gov/america-first-energy</code></li>
+</ol>
+<h2 id="getting-started">Getting Started</h2>
+<p>This website uses <a href="https://gloriajs.com">gloria</a> to build and transform a bunch of html and markdown files into a website.</p>
+<p>The first step to start contributing is probably running locally.</p>
+<ol>
+<li>For the repo from <a href="https://github.com/blancahouse/casablanca">https://github.com/blancahouse/casablanca</a></li>
+<li>Clone locally <code>git clone git@github.com:USERNAME/casablanca</code></li>
+<li>Install gloriajs globally <code>npm install -g gloria</code></li>
+<li>Ask gloria to serve the site <code>gloria serve</code><ol>
+<li>This will open your browser in <a href="http://localhost:3300/">http://localhost:3300/</a></li>
+<li>gloria will re build the site every time you save a file</li>
+<li>If you have issues with gloria, open a bug in <a href="https://github.com/gloriajs/gloria">github</a>.</li>
+</ol>
+</li>
+</ol>
+<p><strong>Congrats</strong> you&#39;re running this project locally!</p>
+<h2 id="submitting-changes">Submitting changes</h2>
+<p>To submit changes, first open an issue on <a href="https://github.com/blancahouse/casablanca/issues">github</a> and assign it to yourself,
+or find an issue with no one assigned to it and claim it. This is important, to prevent duplicate work from happening.</p>
+<p>Create a new branch.</p>
+<p>Create a new file or modify existing ones with your suggestions.</p>
+<p>Run <code>gloria build</code> to make sure the built website is being included. Add your new files or changes
+and create a commit. Try using very descriptive and atomic commits.</p>
+<p>Go back to <a href="https://github.com/blancahouse/casablanca/">github</a> and create a pull request.</p>
+<p>Wait for a reviewer to look at your changes and approve.</p>
+<h2 id="help-">Help?</h2>
+<p>Email casablanca@techqueria.org if you have questions or need help getting started, we&#39;re happy to help with anything,
+including git, npm, nodejs, HTML, spanish, etc. And might even be able to find some time to skype if that&#39;s easier.</p>
+<p>Faster way to get help or talk to other members is to use the techqueria slack, find the #casablanca channel.</p>
+
+        </main>
+        <footer class="container-fluid">
+            <div class="col-sm-4">
+                <p>This site doesn’t intent to endorse the administration, we only hope to make the content of whitehouse.gov available to the  spanish community, as much as we can. Along with some resources and news that will inform them about the current administration.</p>
+            </div>
+            <div class="col-sm-4">
+                <p>
+                    <strong>
+                        <a href="/">Algunos derechos reservados</a>
+                    </strong>
+                </p>
+            </div>
+            <div class="col-sm-4">
+                <p><strong>
+                    <a href="/contributing">Cómo contribuir</a>
+                  </strong>
+                </p>
+                <p>
+                    <strong>
+                        <a href="https://github.com/blancahouse/casablanca">Contribuye en Github!</a>
+                    </strong>
+                </p>
+            </div>
+        </footer>
+        
+    </body>
+</html>
