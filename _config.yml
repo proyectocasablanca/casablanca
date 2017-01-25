@@ -1,0 +1,14 @@
+name: casablanca
+tagline: 'Hagamos whitehouse.gov spanish again!'
+baseurl: 'http://casablanca.techqueria.org/'
+gems:
+    - jekyll-paginate
+markdown: kramdown
+author: casablanca
+description: 'Este proyecto pretende proveer el contenido del website whitehouse.gov para la comunidad hispanoparlante, e intenta ser lo más neutral posible, de ninguna forma busca endosar a la administración actual, o mostrar soporte hacia un partido politico o individuos.'
+dest: docs
+layout: bootstrap
+location: casablanca
+longname: 'Casa Blanca'
+theme: architect
+version: 0.14.0
