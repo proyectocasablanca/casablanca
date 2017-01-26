@@ -14,7 +14,11 @@
               </nav>
           </div>
           <div class="col-sm-9">
-              {{{page.content}}}
+              {{#if page.content}}
+                 {{{page.content}}}
+              {{else}}
+                 {{> placeholder}}
+              {{/if}}
           </div>
         </div>
           <hr>
