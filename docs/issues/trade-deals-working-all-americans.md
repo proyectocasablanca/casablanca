@@ -6,43 +6,29 @@ layout: issues
 
 #   Acuerdos de Comercio Trabajando Para Todo Americanos
 
-Por mucho tiempo, Americanos se han visto obligados de acceptar acuerdos de comercio que pone los intereses de los que
-
-estan enterados y los élite de Washington sobre los intereses de hombres y mujeres trabajadores de este pais.
-
+Por mucho tiempo, Americanos se han visto obligados de acceptar acuerdos de comercio que pone los intereses de los
+que estan enterados y los élite de Washington sobre los intereses de hombres y mujeres trabajadores de este pais.
 El resultado, los pueblos y cuidades industriales han visto cerrar sus fábricas y sus trabajos bien pagados mover al extranjero.
+ Ademas de estos cambios, Americanos se encuentran con una falta de comercio y un debil base de fabricación.
 
-Ademas de estos cambios, Americanos se encuentran con una falta de comercio y un debil base de fabricación.
+Teniendo una vida de experiencia en negocios, le Presidente entiende que tan crítico es poner trabajadores Americanos
+y negocios primero quando se trata del comercio. Con acuerdos justas y difíciles, el comercio internacional se puede utilizar para
+crecer nuesta economia, devolver millones de trabajos a las costas de America, y revitalizar las communidades de nuestra nación que estan sufriendo.
 
-With a lifetime of negotiating experience, the President understands how critical it is to put American workers
 
-and businesses first when it comes to trade. With tough and fair agreements, international trade can be used to
+Esta estrategia comienza por retire del Trans-Parcific Partnership y asegurando que nuevo acuerdos de comercio estan
+en los interesses del trabajador Americano. Presidente Trump esta comprometido a renegociar NAFTA.
+Si nuestros compañeros rechazen una renegociacion que da a los trabajadores Americanos un trato justo,
+entonces el Presidenete les va dar un aviso sobre el retiro estadounidense de NAFTA.
 
-grow our economy, return millions of jobs to America’s shores, and revitalize our nation’s suffering communities.
+En adición de rechazando y recreando acuerdos comerciales fallidos, los Estados Unidos va investigar y identificar a las naciones que violan
+estos acuerdos comerciales y que los que hacen daño a los trabajadores Americanos. El Presidente ordenará al Secretario de Comercio que identifique todas
+ las violaciones comerciales y que utilice todos los instrumentos a disposición del gobierno federal para terminar estos abusos.
 
-This strategy starts by withdrawing from the Trans-Pacific Partnership and making certain that any new trade
+Para ejecutar esta estratejia, el Presidente está nombrando a los más duros y inteligentes para su equipo de comercio, asegurando que los
+Americanos tienen los mejores negociadores posibles. Durante demasiado tiempo, los acuerdos comerciales han sido negociados por, y para,
+ miembros de Washington. El Presidente Trump se asegurará de que, bajo su supervisión, las políticas comerciales serán implementadas por y para el pueblo,
+y pondrán a los intereses de los Estados Unidos primero.
 
-deals are in the interests of American workers. President Trump is committed to renegotiating NAFTA.
-
-If our partners refuse a renegotiation that gives American workers a fair deal, then the President will give
-
-notice of the United States’ intent to withdraw from NAFTA.
-
-In addition to rejecting and reworking failed trade deals, the United States will crack down on those nations
-that violate trade agreements and harm American workers in the process. The President will direct the Commerce
-
-Secretary to identify all trade violations and to use every tool at the federal government’s disposal to end
-
-these abuses.
-
-To carry out his strategy, the President is appointing the toughest and smartest to his trade team, ensuring
-
-that Americans have the best negotiators possible. For too long, trade deals have been negotiated by, and for,
-
-members of the Washington establishment. President Trump will ensure that on his watch, trade policies will be
-
-implemented by and for the people, and will put America first.
-
-By fighting for fair but tough trade deals, we can bring jobs back to America’s shores, increase wages, and
-
-support U.S. manufacturing.
+Luchando por acuerdos de comercio justa pero duras, nosotors podemos devolver los trabajos a las costas de America, aumentar
+ salario y apoyar las fabricaciónes Estadounidense.
