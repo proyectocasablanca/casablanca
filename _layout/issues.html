@@ -13,7 +13,9 @@
                             <a href="/issues/america-first-energy/">America First Energy Plan</a>
                         </li>
                         <li><a href="">America First Foreign Policy</a></li>
-                        <li><a href="">Bringing Back Jobs And Growth</a></li>
+                        <li {{#ifeq page.url 'issues/bringing-back-jobs-and-growth'}}class="active"{{/ifeq}}>
+                            <a href="/issues/bringing-back-jobs-and-growth">Bringing Back Jobs And Growth</a>
+                        </li>
                         <li><a href="">Making Our Military Strong Again</a></li>
                         <li><a href="">Standing Up For Our Law Enforcement Community</a></li>
                         <li><a href="">Trade Deals Working For All Americans</a></li>
@@ -25,7 +27,7 @@
             </div>
         </div>
         <hr>
-        {{> disclaimer.html}}
+          {{> disclaimer}}
         </main>
         {{> footer}}
     </body>
