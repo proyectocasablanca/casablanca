@@ -9,4 +9,9 @@
           {{/if}}
       {{/if}}
     </p>
+    {{#if page.filename}}
+        <p>The markdown source for this file can be found
+            <a href="https://github.com/proyectocasablanca/casablanca/blob/master/{{page.filename}}">here</a>
+        </p>
+    {{/if}}
 </div>
