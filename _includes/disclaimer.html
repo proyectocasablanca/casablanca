@@ -1,0 +1,12 @@
+<div class="row text-center main-disclaimer">
+    <p><strong>Disclaimer:</strong> This content is a community translation from an article found in the whitehouse.gov website.
+        {{#if page.source}}
+          {{#if page.source.url}}<a href="{{page.source.url}}">
+              {{#if page.source.title}} {{page.source.title}} {{else}} Source. {{/if}}
+          </a>
+          {{else}}
+            {{#if page.source.title}} {{page.source.title}} {{else}} Source. {{/if}}
+          {{/if}}
+      {{/if}}
+    </p>
+</div>
