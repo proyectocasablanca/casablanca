@@ -3,7 +3,8 @@ url: issues/bringing-back-jobs-and-growth
 name: Bringing Back Jobs and Growth
 layout: issues
 ---
-#Restaurando Trabajos y Desarrollo
+
+# Restaurando Trabajos y Desarrollo
 
 Desde la recesión del 2008, los negocios y trabajadores americanos han sufrido la recuperación mas lenta desde la Segunda Guerra mundial. Los EEUU ha perdido casi 300,000 trabajos en la manufactura durante este período, mientras que la participación de Americanos en el sector laboral disminuyo a bajas no vistas desde los años 1970s, la deuda nacional se doblo, y la clase media disminuyo. Para que la economía regrese a un nivel mas alto, el Presidente Trump ha perfilado un plan audaz para crear 25 millones de nuevos trabajos en la próxima década y  regresar a 4% de crecimiento económico anual. 
 
