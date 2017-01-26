@@ -1,17 +1,18 @@
 ---
-name: "Executive Order Immigration"
-url: the-press-office/2017/01/25/executive-order-border-security-and-immigration-enforcement-improvements
 layout: press
+url: the-press-office/2017/01/25/executive-order-border-security-and-immigration-enforcement-improvements
+name: "Executive Order Immigration"
+source: 
+  title: "Executive Order: Border Security and Immigration Enforcement Improvements"
+  url: "https://www.whitehouse.gov/the-press-office/2017/01/25/executive-order-border-security-and-immigration-enforcement-improvements"
 ---
 
-# Executive Order: Seguridad en la Frontera y Mejoras a la Aplicación de Leyes
-de Immigración
 
 # Orden Ejecutiva
 
 - - - - - - -
 
-Seguridad en la Frontera y Mejoras a la Aplicación de Leyes de Immigración
+## Seguridad en la Frontera y Mejoras a la Aplicación de Leyes de Immigración
 
 Por la autoridad conferida en mi como presidente por la constitución y las
 leyes de los Estados Unidos de America, incluyendo el acta de Immigración
@@ -23,7 +24,7 @@ e integridad territorial de los Estados Unidos y para asegurar que las leyes
 de immigración de la nación sean ejecutadas correctamente, yo ordeno lo
 siguiente:
 
-**Section 1. Proposito.** La seguridad de la frontera es criticamente importante
+**Sección 1. Próposito.** La seguridad de la frontera es criticamente importante
 para la seguridad de los Estados Unidos. Extraños que entran de forma ilegal
 a los Estados Unidos sin inspección o admisión presentan una amenaza a la seguridad
 nacional y la seguridad pública. Tales extranjeros no han sido identificados o
@@ -43,255 +44,254 @@ buscan herir a los americanos con actos de terror y su conducta criminal.
 La continuación de la immigración ilegal presenta un grave daño a los
 intereses de Estados Unidos.
 
-Federal immigration law both imposes the responsibility and provides the means
-for the Federal Government, in cooperation with border States, to secure the
-Nation's southern border.  Although Federal immigration law provides a robust
-framework for Federal-State partnership in enforcing our immigration laws
-and the Congress has authorized and provided appropriations to secure our
-borders    the Federal Government has failed to discharge this basic sovereign
-responsibility.  The purpose of this order is to direct executive departments
-and agencies (agencies) to deploy all lawful means to secure the Nation's
-southern border, to prevent further illegal immigration into the United States,
-and to repatriate illegal aliens swiftly, consistently, and humanely.
+La ley de immigración federal impone la responsabilidad y provee los medios
+para que el gobierno federal, en cooperación con los estados fronterizos,
+puedan asegurar el borde al sur del país. Aunque la ley de immigración federal
+provee un marco robusto para la cooperación entre el gobierno federal y estatal
+para aplicar las leyes de immigración, y el congreso ha autorizado y proveido
+acciones apropiadas para asegurar nuestra frontera, el gobierno federal ha
+fallado al ejecutar su responsabilidad básica sobre esta soberanía. El proposito
+de esta orden ejecutiva es dirigir departamentos y agencias federales para que
+utilicen todos los medios legales disponibles para asegurar nuestra frontera
+al sur, para prevenir más immigración ilegal al pais, y repatriar a los
+immigrantes ilegales actualmente en el país de forma diligente, consistente
+y humanitaria.
 
-Sec. 2.  Policy.  It is the policy of the executive branch to:
+**Sección 2. Normatividad** Es normativo para la rama ejecutiva:
 
-(a)  secure the southern border of the United States through the immediate
-construction of a physical wall on the southern border, monitored and supported
-by adequate personnel so as to prevent illegal immigration, drug and human
-trafficking, and acts of terrorism;
+(a) asegurar la frontera del sur de los Estados Unidos a través de la
+construcción inmediata de un muro en el borde, monitoreado y soportado
+por personal adecuado para preveer la immigración ilegal, trafico de blancas
+y drogas, y actos de terrorismo;
 
-(b)  detain individuals apprehended on suspicion of violating Federal or State
-law, including Federal immigration law, pending further proceedings regarding
-those violations;
+(b) detener individuos que sean sospechosos de violar la ley federal o estatal,
+incluyendo la ley de immigración federal, que tengan procedimientos pendientes
+pertinentes a esas violaciones;
 
-(c)  expedite determinations of apprehended individuals' claims of eligibility
-to remain in the United States;
+(c) acelerar determinaciones sobre los individuos aprendidos, y sus reclamos
+de eligibilidad para permanecer en los estados unidos;
 
-(d)  remove promptly those individuals whose legal claims to remain in the
-United States have been lawfully rejected, after any appropriate civil or
-criminal sanctions have been imposed; and
+(d) remover rápidamente a aquellos individuos cuyas reclamaciones para
+permanecer en el país han sido rechazadas legalmente, después las sanciones
+civiles y criminales apropiadas; y
 
-(e)  cooperate fully with States and local law enforcement in enacting
-Federal-State partnerships to enforce Federal immigration priorities, as well
-as State monitoring and detention programs that are consistent with Federal law
-and do not undermine Federal immigration priorities.
+(e) cooperar completamente con la ley estatal y local para crear asociaciones
+estado-federal y reforzar las prioridades de immigración, también crear programas
+estatales de monitereo y detención que sean consistentes con la ley federal
+y no afecten las prioridades federales de immigracion.
 
-Sec. 3.  Definitions.  (a)  "Asylum officer" has the meaning given the term in
-section 235(b)(1)(E) of the INA (8 U.S.C. 1225(b)(1)).
+**Sección 3. Definiciones**. (a) "Oficial de Asilo" tiene el significado dado
+el termino en la Section 235(b)(1)(E) del INA (8 U.S.C. 1225(b)(1)).
 
-(b)  "Southern border" shall mean the contiguous land border between the United
-States and Mexico, including all points of entry.
+(b) "Frontera al sur" habla de todo el borde terrestre entre los Estados Unidos
+y Mexico, incluyendo todos los puntos de entrada.
 
-(c)  "Border States" shall mean the States of the United States immediately
-adjacent to the contiguous land border between the United States and Mexico.
+(c) "Estados Fronterizos" quiere decir todos los estados de los Estados Unidos
+adjuntos al borde de tierra entre los Estados Unidos y Mexico.
 
-(d)  Except as otherwise noted, "the Secretary" shall refer to the Secretary of
-Homeland Security.
+(d) Excepto en los casos donde sea mencionado, "La Secretaría" se refiere
+a la secretaría de seguridad nacional.
 
-(e)  "Wall" shall mean a contiguous, physical wall or other similarly secure,
-contiguous, and impassable physical barrier.
+(e) "Muro" se refiere al muro, contiguo, fisico, o otra barrera fisica similar
+insaltable que presente esas características.
 
-(f)  "Executive department" shall have the meaning given in section 101 of
-title 5, United States Code.
+(f) "Departamento Ejecutivo" se refiere a lo mencionado en la sección 101 del
+título 5, del codigo de los Estados Unidos.
 
-(g)  "Regulations" shall mean any and all Federal rules, regulations, and
-directives lawfully promulgated by agencies.
+(g) "Regulaciones" se refiere a cualquier y todas las leyes federales, regulaciones,
+y directivas reglamentarias promovidas por las agencias.
 
-(h)  "Operational control" shall mean the prevention of all unlawful entries
-into the United States, including entries by terrorists, other unlawful aliens,
-instruments of terrorism, narcotics, and other contraband.
+(h) "Control Operacional" se refiere a la prevención de las entradas ilegales
+a los Estados Unidos, incluyendo entradas de terroristas, otros extraños ilegales,
+instrumentos de terrorismo, narcoticos, y otro contrabando.
 
-Sec. 4.  Physical Security of the Southern Border of the United States.  The
-Secretary shall immediately take the following steps to obtain complete
-operational control, as determined by the Secretary, of the southern border:
+**Sección 4. Seguridad física de la frontera sur de los Estados Unidos** La secretaría
+debera tomar de forma immediata los siguientes pasos para obtener completo control
+operacional de la frontera, como es determinado por la Secretaría, en el borde sur:
 
-(a)  In accordance with existing law, including the Secure Fence Act and
-IIRIRA, take all appropriate steps to immediately plan, design, and construct a
-physical wall along the southern border, using appropriate materials and
-technology to most effectively achieve complete operational control of the
-southern border;
+(a) De acuerdo con la ley existente, incluyendo el acta de seguridad de la frontera IIRIRA,
+tomar todos los pasos apropiados para planear, diseñar, y construir un muro fisico sobre
+la frontera sur, utilizando los materiales apropiados y la tecnología para lograr control
+operacional total de forma efectiva en la frontera;
 
-(b)  Identify and, to the extent permitted by law, allocate all sources of
-Federal funds for the planning, designing, and constructing of a physical wall
-along the southern border;
+(b) Identificar y, bajo lo permitido por la ley, proporcionar recursos federales para
+la planeación, diseño, y construcción de un muro físico en la frontera;
 
-(c)  Project and develop long-term funding requirements for the wall, including
-preparing Congressional budget requests for the current and upcoming fiscal
-years; and
+(b) Proyectar y desarrollar un plan a largo plazo para asegurar la financiación de las
+operaciones en la frontera, incluyendo preparar presupuestos con el congreso para los
+años fiscales actual y siguientes; y
 
-(d)  Produce a comprehensive study of the security of the southern border, to
-be completed within 180 days of this order, that shall include the current
-state of southern border security, all geophysical and topographical aspects of
-the southern border, the availability of Federal and State resources necessary
-to achieve complete operational control of the southern border, and a strategy
-to obtain and maintain complete operational control of the southern border.
+(d) Producir un estudio completo de la seguridad en la frontera, que debe ser completado
+en 180 días a partir de la firma de esta orden, que incluya el estado actual de la seguridad
+en la frontera, los aspectos geo-fisicos y topograficos del borde, la disponibilidad
+de recursos estatales y federales necesarios para lograr el control operacional total,
+y una estrategia para obtener y mantener control operacion total de la frontera.
 
-Sec. 5.  Detention Facilities.  (a)  The Secretary shall take all appropriate
-action and allocate all legally available resources to immediately construct,
-operate, control, or establish contracts to construct, operate, or control
-facilities to detain aliens at or near the land border with Mexico.
+**Sección 5. Facilidades de detención** (a) La Secretaría debera tomar todas las
+acciones apropiadas para alocar todos los recursos disponibles legalmente para
+construir de forma immediata, operar, controlar, o establecer contratos para
+construir, operar o controlar facilidades para detener extranjeros sobre o cerca
+al borde con Mexico.
 
-(b)  The Secretary shall take all appropriate action and allocate all legally
-available resources to immediately assign asylum officers to immigration
-detention facilities for the purpose of accepting asylum referrals and
-conducting credible fear determinations pursuant to section 235(b)(1) of the
-INA (8 U.S.C. 1225(b)(1)) and applicable regulations and reasonable fear
-determinations pursuant to applicable regulations.
+(b) La Secretaría debe tomar toda la acción apropiada y alocar todos los recursos
+disponibles legalmente para asignar oficiales de asilo a los centros de detención
+de immigrantes, con el próposito de aceptar referencias de asilo y conducir
+determinaciones de amenaza, de acuerdo en lo especificado en la sección 235(b)(1)
+del INA (8 U.S.C. 1225(b)(1)) y las regulaciones aplicables respecto al miedo
+razonable que determina las regulaciones aplicables.
 
-(c)  The Attorney General shall take all appropriate action and allocate all
-legally available resources to immediately assign immigration judges to
-immigration detention facilities operated or controlled by the Secretary, or
-operated or controlled pursuant to contract by the Secretary, for the purpose
-of conducting proceedings authorized under title 8, chapter 12, subchapter II,
-United States Code.
+(c) El fiscal general deberá, tomar todas las acciones apropiadas y alocar
+todos los recursos legalmente disponibles para asignar jueces de immigración a
+las facilidades de detención operadas o controladas por la Secretaría, o
+operada o controlada por contratistas, con el próposito de conducir los
+procedimientos autorizados bajo el título 8, cápitulo 12, sub-cápitulo II,
+del código de los Estados Unidos.
 
-Sec. 6.  Detention for Illegal Entry.  The Secretary shall immediately take all
-appropriate actions to ensure the detention of aliens apprehended for
-violations of immigration law pending the outcome of their removal proceedings
-or their removal from the country to the extent permitted by law.  The
-Secretary shall issue new policy guidance to all Department of Homeland
-Security personnel regarding the appropriate and consistent use of lawful
-detention authority under the INA, including the termination of the practice
-commonly known as "catch and release," whereby aliens are routinely released in
-the United States shortly after their apprehension for violations of
-immigration law.
+**Sección 6. Detención para entradas ilegales**. La Secretaría deberá immediatamente
+tomar toda la acción apropiada para asegurar la detención de extranjeros aprehendidos
+por violaciones a la ley de immigración tras terminar sus procedimientos de remoción,
+o su remoción del país, bajo lo permitido por la ley. La secretaría debera emitir nuevas
+guías para todos los oficiales del departamento de seguridad nacional sobre el uso apropiado
+de autoridad en detención bajo el INA, incluyendo la terminación de la práctica comunmente
+llama "atrapar y soltar"(catch and release), donde a los extranjeros son frecuentemente
+liberados en los Estados Unidos, poco después de ser capturados por violaciones de leyes
+de immigración.
 
-Sec. 7.  Return to Territory.  The Secretary shall take appropriate action,
-consistent with the requirements of section 1232 of title 8, United States
-Code, to ensure that aliens described in section 235(b)(2)(C) of the INA (8
-U.S.C. 1225(b)(2)(C)) are returned to the territory from which they came
-pending a formal removal proceeding.
+**Sección 7. Retorno al territorio.** La secretaría debera tomar acción apropiada,
+consistente con los requerimientos de la sección 1232 del título 8, del código de los
+Estados Unidos, para asegurar que los extranjeros descritos en la sección 235(b)(2)(C)
+del INA (8 U.S.C. 1225(b)(2)(C)) sean devueltos al territorio del cual se originaron
+tras pasar los procedimientos de remoción.
 
-Sec. 8.  Additional Border Patrol Agents.  Subject to available appropriations,
-the Secretary, through the Commissioner of U.S. Customs and Border Protection,
-shall take all appropriate action to hire 5,000 additional Border Patrol
-agents, and all appropriate action to ensure that such agents enter on duty and
-are assigned to duty stations as soon as is practicable.
+**Sección 8. Agentes de protección de la frontera adicionales** Sujeto a las
+apropiaciones adecuadas, la secretaría, a través del Comisionado de Aduanas y 
+protección fronteriza de los Estados Unidos , debera tomar la acción apropiada
+para contratar 5,000 oficiales adicionales de seguridad en el borde, y toda la
+acción apropiada para asegurar que los agentes sean asignados a estaciónes 
+tan pronto como sea práctico.
 
-Sec. 9.  Foreign Aid Reporting Requirements.  The head of each executive
-department and agency shall identify and quantify all sources of direct and
-indirect Federal aid or assistance to the Government of Mexico on an annual
-basis over the past five years, including all bilateral and multilateral
-development aid, economic assistance, humanitarian aid, and military aid.
-Within 30 days of the date of this order, the head of each executive department
-and agency shall submit this information to the Secretary of State.  Within 60
-days of the date of this order, the Secretary shall submit to the President a
-consolidated report reflecting the levels of such aid and assistance that has
-been provided annually, over each of the past five years.
+**Sección 9. Reporte de ayuda al exterior**. El jefe de cada departamento
+ejecutivo y agencia deberá identificar y cuantificar todas las fuentes de
+ayuda directa e indirecta, que el gobierno federal provee a México en una base
+anual durante los ultimos cinco años, incluyendo toda ayuda bilateral y multilateral,
+ayuda al desarrollo, asistencia ecónomica, ayuda humanitaria, y ayuda militar.
+A los 30 días de la firma de esta orden, el jefe de cada departamento ejecutivo
+y agencia deberá enviar esta información a la secretaría de estado. A los 60 días
+de la fecha de esta orden, la secretaría deberá enviar al presidente el reporte
+consolidado reflejando los niveles de ayuda y asistencia que han sido enviados
+anualmente, durante los ultimos cinco años.
 
-Sec. 10.  Federal-State Agreements.  It is the policy of the executive branch
-to empower State and local law enforcement agencies across the country to
-perform the functions of an immigration officer in the interior of the United
-States to the maximum extent permitted by law.
+**Sección 10. Acuerdos federal-estatal** Es politica del ejecutivo empoderar
+a los estados y agencias policiales locales en el país para realizar funciones
+de immigración en el interior de los Estados Unidos al máximo alcance permitido
+por la ley.
 
-(a)  In furtherance of this policy, the Secretary shall immediately take
-appropriate action to engage with the Governors of the States, as well as local
-officials, for the purpose of preparing to enter into agreements under section
-287(g) of the INA (8 U.S.C. 1357(g)).
+(a) Para incrementar esta politica, la secretaría debera immediatamente tomar
+acción apropiada, para comprometerse con los gobernadores de los estados,
+así como con los oficiales locales, para el proposito de entrar en acuerdos bajo
+la sección 287(g) del INA (8 U.S.C. 1357(g)).
 
-(b)  To the extent permitted by law, and with the consent of State or local
-officials, as appropriate, the Secretary shall take appropriate action, through
-agreements under section 287(g) of the INA, or otherwise, to authorize State
-and local law enforcement officials, as the Secretary determines are qualified
-and appropriate, to perform the functions of immigration officers in relation
-to the investigation, apprehension, or detention of aliens in the United States
-under the direction and the supervision of the Secretary.  Such authorization
-shall be in addition to, rather than in place of, Federal performance of these
-duties.
+(b) Hasta lo permitido por la ley, y con el consentimiento de los estados
+y autoridades locales, como sea apropiado, la secretaría debera tomar acción
+apropiada bajo los acuerdos en la sección  287(g) de INA, o, autorizar a las
+autoridades locales y estatales, como lo vea apropiado, para realizar las
+funciones de agentes de imigración en relación a la investigación, aprensión, o
+detención de extranjeros en los Estados Unidos bajo la dirección y supervisón de
+la secretaría. Tal autorización debe ser complementaría de la labor
+realizada por las autoridades federales.
 
-(c)  To the extent permitted by law, the Secretary may structure each agreement
-under section 287(g) of the INA in the manner that provides the most effective
-model for enforcing Federal immigration laws and obtaining operational control
-over the border for that jurisdiction.
+(c) Hasta lo permitido por la ley, la secretaría puede estructurar cada acuerdo
+bajo la sección 287(g) de INA de manera tal que provea el módelo mas eficiente
+de operación para fortalecer las leyes federales de immigración y obtener
+control operacional sobre el borde para la jurisdicción.
 
-Sec. 11.  Parole, Asylum, and Removal.  It is the policy of the executive
-branch to end the abuse of parole and asylum provisions currently used to
-prevent the lawful removal of removable aliens.
+**Sección 11. Libertad condicional, Asilo y Remoción**. Es la intención de la rama
+ejecutiva terminar el abuso del sistema de libertad condicional y asilo actualmente
+usados para prevenir la remoción de extranjeros que deberían ser removidos.
 
-(a)  The Secretary shall immediately take all appropriate action to ensure that
-the parole and asylum provisions of Federal immigration law are not illegally
-exploited to prevent the removal of otherwise removable aliens.
+(a) La secretaría debera tomar acción immediata y apropiada para asegurarse que
+el sistema de libertad condicional y asilo de la ley de immigración no estén siendo
+explotados ilegalmente para prevenir la remoción de extranjeros que deberían ser
+removidos.
 
-(b)  The Secretary shall take all appropriate action, including by promulgating
-any appropriate regulations, to ensure that asylum referrals and credible fear
-determinations pursuant to section 235(b)(1) of the INA (8 U.S.C. 1125(b)(1))
-and 8 CFR 208.30, and reasonable fear determinations pursuant to 8 CFR 208.31,
-are conducted in a manner consistent with the plain language of those
-provisions.
+(b) La secretaría debera tomar la acción apropiada, incluyendo promulgar las
+regulaciones relevantes, para asegurar que las personas buscando asilo, con
+determinaciones creibles de miedo, de acuerdo con la sección 235(b)(1) de
+INA (8 U.S.C. 1125(b)(1)) y 8 CFR 208.30, y determinaciones racionales de
+miedo de acuerdo a 8 CFR 208.31, sean conducidas de manera consistente con el
+lenguage intencionado en esas provisiones.
 
-(c)  Pursuant to section 235(b)(1)(A)(iii)(I) of the INA, the Secretary shall
-take appropriate action to apply, in his sole and unreviewable discretion, the
-provisions of section 235(b)(1)(A)(i) and (ii) of the INA to the aliens
-designated under section 235(b)(1)(A)(iii)(II).
+(c) De acuerdo a la sección 235(b)(1)(A)(iii)(I) de INA, la secretaría deberá
+tomar acción apropiada para aplicar, en su discreción única y no revisable,
+las provisiones de la sección 235(b)(1)(A)(i) y (ii) de INA para los extranjeros
+designados bajo la sección 235(b)(1)(A)(iii)(II).
 
-(d)  The Secretary shall take appropriate action to ensure that parole
-authority under section 212(d)(5) of the INA (8 U.S.C. 1182(d)(5)) is exercised
-only on a case-by-case basis in accordance with the plain language of the
-statute, and in all circumstances only when an individual demonstrates urgent
-humanitarian reasons or a significant public benefit derived from such parole.
+(d) La secretaría debera tomar acción apropiada para asegurar que la autoridad
+de libertad condicional bajo la sección 215(d)(5) de INA (8 U.S.C. 1182(d)(5))
+sea ejercitada solo en condiciones de caso por caso, y de acuerdo con el lenguaje
+intencionado en el estatuto, y en todas las circumstancias solo cuando un individuo
+demuestre razones humanitarias urgentes o un beneficio al publico derivado de la
+libertad condicional.
 
-(e)  The Secretary shall take appropriate action to require that all Department
-of Homeland Security personnel are properly trained on the proper application
-of section 235 of the William Wilberforce Trafficking Victims Protection
-Reauthorization Act of 2008 (8 U.S.C. 1232) and section 462(g)(2) of the
-Homeland Security Act of 2002 (6 U.S.C. 279(g)(2)), to ensure that
-unaccompanied alien children are properly processed, receive appropriate care
-and placement while in the custody of the Department of Homeland Security, and,
-when appropriate, are safely repatriated in accordance with law.
+(e) La secretaría deberá tomar acción apropiada para requerir que todo el personal
+del departamento de seguridad nacional estén propiamente entrenados en la
+aplicación adecuada de la sección 235 del acta William Wilberforce para la protección
+de victimas de trata de blancas de 2008 (8 U.S.C. 1232) y la sección 462(g)(s) 
+del Acta de seguridad nacional de 2002 (6 U.S.C. 279(g)(2)), para asegurar que los menores
+no acompañados sea propiamente procesados, reciban tratamiento apropiado y sean
+puestos en custodia del departamento de seguridad nacional, y,
+cuando sea apropiado, sean seguramente repatriados de acuerdo con la ley.
 
-Sec. 12.  Authorization to Enter Federal Lands.  The Secretary, in conjunction
-with the Secretary of the Interior and any other heads of agencies as
-necessary, shall take all appropriate action to:
+**Sección 12. Autorización para ingresar a territorio federal**. La secretariá,
+en conjunto con el secretario del interior y otras agencias, como sea necesario,
+deberán tomar acción para:
 
-(a)  permit all officers and employees of the United States, as well as all
-State and local officers as authorized by the Secretary, to have access to all
-Federal lands as necessary and appropriate to implement this order; and
+(a) Permitir que todos los oficiales y empleados de los Estados Unidos, así como los
+oficiales locales y estatales, estén autorizados por la secretaría, para acceder
+a los territorios federeales que sea necesario para implementar esta orden; y
 
-(b)  enable those officers and employees of the United States, as well as all
-State and local officers as authorized by the Secretary, to perform such
-actions on Federal lands as the Secretary deems necessary and appropriate to
-implement this order.
+(b) permitir a esos oficiales y empleados de los Estados Unidos, así como a las
+autoridades locales y estatales, realizar acciones en esos terrenos, como sea
+necesario y apropiado, para implementar esta orden ejecutiva.
 
-Sec. 13.  Priority Enforcement.  The Attorney General shall take all
-appropriate steps to establish prosecution guidelines and allocate appropriate
-resources to ensure that Federal prosecutors accord a high priority to
-prosecutions of offenses having a nexus to the southern border.
+**Sección 13. Cumplimiento de la Prioridad**. El fiscal general deberá tomar
+todas las acciones apropiadas para establecer lineamientos de persecución
+y alocar los recursos apropiados para que los fiscales federales puedan enjuiciar
+con mayor prioridad las ofensas que estén conectadas con la frontera sur.
 
-Sec. 14.  Government Transparency.  The Secretary shall, on a monthly basis and
-in a publicly available way, report statistical data on aliens apprehended at
-or near the southern border using a uniform method of reporting by all
-Department of Homeland Security components, in a format that is easily
-understandable by the public.
+**Sección 14. Transparencía en el gobierno**. La secretaría debe, mensualmente
+y de forma que este disponible al público, reportar información y estadisticas
+en los extranjeros detenidos en o cerca al borde, usando un metodo uniforme de
+reporte para todos los miembros del departamento de seguridad, en un formato que sea
+facilmente digerible por el público.
 
-Sec. 15.  Reporting.  Except as otherwise provided in this order, the
-Secretary, within 90 days of the date of this order, and the Attorney General,
-within 180 days, shall each submit to the President a report on the progress of
-the directives contained in this order.
+**Sección 15. Reportes**. Excepto que sea mencionado en esta orden,
+la secretaría, a los 90 días de la firma de esta orden, y el fiscal general,
+a los 180 días, deberán cada uno enviar al presidente un reporte en el progreso
+de las directivas contenidas en esta orden.
 
-Sec. 16.  Hiring.  The Office of Personnel Management shall take appropriate
-action as may be necessary to facilitate hiring personnel to implement this
-order.
+**Sección 16. Contratación**. La oficina de manejo de personal deberá tomar
+las acciones apropiadas que sean necesarias para facilitar la contratación de
+personal para ejecutar esta orden.
 
-Sec. 17.  General Provisions.  (a)  Nothing in this order shall be construed to
-impair or otherwise affect:
+**Sección 17. Provisiones Generales**. (a) Nada en esta orden deberá ser interpretado
+para afectar o perjudicar:
 
-(i)   the authority granted by law to an executive department or agency, or the
-head thereof; or
+  - La autoridad otorgada por la ley para un departamento o agencia ejecutiva, o
+a los jefes de ellas; o
 
-(ii)  the functions of the Director of the Office of Management and Budget
-relating to budgetary, administrative, or legislative proposals.
+  - las funciones del director de la oficina de administración y presupuesto,
+relacionado con propuestas presupuestales, administrativas o legislativas.
 
-(b)  This order shall be implemented consistent with applicable law and subject
-to the availability of appropriations.
+(b) Esta orden debera ser implementada de forma consistente con la ley aplicable y
+sujeta a la disponibilidad apropiaciones/créditos.
 
-(c)  This order is not intended to, and does not, create any right or benefit,
-substantive or procedural, enforceable at law or in equity by any party against
-the United States, its departments, agencies, or entities, its officers,
-employees, or agents, or any other person.
+(c) No es la intención de esta orden, y no espera, crear ningun derecho o beneficio,
+sustantivo o de procedimiento, que sea aplicable a la ley, o en equidad con ningun
+actor en contra de los Estados Unidos, sus departamentos, agencias o entidades u oficiales,
+empleados, o agentes o ninguna otra persona.
 
 DONALD J. TRUMP
 
 THE WHITE HOUSE, January 25, 2017.
-
 
