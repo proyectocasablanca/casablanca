@@ -12,20 +12,30 @@
                         <li {{#ifeq page.url 'issues/america-first-energy'}}class="active"{{/ifeq}}>
                             <a href="/issues/america-first-energy/">America First Energy Plan</a>
                         </li>
-                        <li><a href="">America First Foreign Policy</a></li>
+                        <li {{#ifeq page.url 'issues/america-first-foreign-policy'}}class="active"{{/ifeq}}>
+                            <a href="/issues/america-first-foreign-policy/">America First Foreign Policy</a>
+                        </li>
                         <li {{#ifeq page.url 'issues/bringing-back-jobs-and-growth'}}class="active"{{/ifeq}}>
                             <a href="/issues/bringing-back-jobs-and-growth/">Bringing Back Jobs And Growth</a>
                         </li>
-                        <li><a href="">Making Our Military Strong Again</a></li>
+                        <li {{#ifeq page.url 'issues/making-our-military-strong-again'}}class="active"{{/ifeq}}>
+                            <a href="/issues/making-our-military-strong-again/">Making Our Military Strong Again</a>
+                        </li>
                         <li {{#ifeq page.url 'issues/law-enforcement-community'}}class="active"{{/ifeq}}>
                             <a href="/issues/law-enforcement-community/">Standing Up For Our Law Enforcement Community</a>
                         </li>
-                        <li><a href="">Trade Deals Working For All Americans</a></li>
+                        <li {{#ifeq page.url 'issues/trade-deals-working-all-americans'}}class="active"{{/ifeq}}>
+                            <a href="/issues/trade-deals-working-all-americans/">Trade Deals Working For All Americans</a>
+                        </li>
                     </ul>
                 </nav>
             </div>
             <div class="col-sm-9">
-                {{{page.content}}}
+                {{#if page.content}}
+                    {{{page.content}}}
+                {{else}}
+                    {{> placeholder}}
+                {{/if}}
             </div>
         </div>
         <hr>
