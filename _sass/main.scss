@@ -9,6 +9,11 @@ main.container {
     }
 }
 
+.panel-title a {
+    cursor: pointer;
+    display: block;
+}
+
 footer {
     background: #f4f4f4 url(/images/hr.jpg) top repeat-x;
     padding: 2em 0;
@@ -18,3 +23,4 @@ footer {
 .main-disclaimer {
     padding: 2em 0;
 }
+

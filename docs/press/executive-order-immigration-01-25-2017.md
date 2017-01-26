@@ -3,6 +3,7 @@ layout: press
 url: the-press-office/2017/01/25/executive-order-border-security-and-immigration-enforcement-improvements
 name: "Executive Order Immigration"
 category: "executive-orders"
+description: "EXECUTIVE ORDER-- BORDER SECURITY AND IMMIGRATION ENFORCEMENT IMPROVEMENTS"
 source: 
   title: "Executive Order: Border Security and Immigration Enforcement Improvements"
   url: "https://www.whitehouse.gov/the-press-office/2017/01/25/executive-order-border-security-and-immigration-enforcement-improvements"

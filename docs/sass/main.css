@@ -6,6 +6,10 @@
 main.container img {
   max-width: 100%; }
 
+.panel-title a {
+  cursor: pointer;
+  display: block; }
+
 footer {
   background: #f4f4f4 url(/images/hr.jpg) top repeat-x;
   padding: 2em 0;
