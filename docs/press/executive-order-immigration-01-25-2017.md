@@ -26,7 +26,7 @@ de immigración de la nación sean ejecutadas correctamente, yo ordeno lo
 siguiente:
 
 **Sección 1. Próposito.** La seguridad de la frontera es criticamente importante
-para la seguridad de los Estados Unidos. Extraños que entran de forma ilegal
+para la seguridad de los Estados Unidos. Extranjeros que entran de forma ilegal
 a los Estados Unidos sin inspección o admisión presentan una amenaza a la seguridad
 nacional y la seguridad pública. Tales extranjeros no han sido identificados o
 inspeccionados por oficiales de immigración para determinar su admisibilidad
@@ -34,13 +34,13 @@ a los Estados Unidos. El reciente crecimiento en immigración ilegal en la
 frontera del sur con Mexico ha agregado una carga a los recursos federales y
 abrumado a las agencias a cargo de la seguridad en la frontera y aplicación de
 la ley de immigración, al igual que en las comunidades locales donde estos
-extraños residen.
+extranjeros residen.
 
 
 Organizaciones criminales transnacioanles operan redes de trafico de drogas
 y personas en ambos lados de la frontera en el sur, contribuyendo de manera
-significante a un incremento en violencia y muertes en los Estados Unidos
-por drogas peligrosas. Entre los que ingresan de forma ilegal hay quienes
+significante a un aumento en la violencia y muertes por drogas peligrosas 
+en los Estados Unidos. Entre los que ingresan de forma ilegal hay quienes
 buscan herir a los americanos con actos de terror y su conducta criminal.
 La continuación de la immigración ilegal presenta un grave daño a los
 intereses de Estados Unidos.
@@ -62,10 +62,10 @@ y humanitaria.
 
 (a) asegurar la frontera del sur de los Estados Unidos a través de la
 construcción inmediata de un muro en el borde, monitoreado y soportado
-por personal adecuado para preveer la immigración ilegal, trafico de blancas
+por personal adecuado para preveer la immigración ilegal, trafico de personas
 y drogas, y actos de terrorismo;
 
-(b) detener individuos que sean sospechosos de violar la ley federal o estatal,
+(b) detener individuos sospechados de violar la ley federal o estatal,
 incluyendo la ley de immigración federal, que tengan procedimientos pendientes
 pertinentes a esas violaciones;
 
@@ -103,7 +103,7 @@ título 5, del codigo de los Estados Unidos.
 y directivas reglamentarias promovidas por las agencias.
 
 (h) "Control Operacional" se refiere a la prevención de las entradas ilegales
-a los Estados Unidos, incluyendo entradas de terroristas, otros extraños ilegales,
+a los Estados Unidos, incluyendo entradas de terroristas, otros extranjeros ilegales,
 instrumentos de terrorismo, narcoticos, y otro contrabando.
 
 **Sección 4. Seguridad física de la frontera sur de los Estados Unidos** La secretaría
@@ -132,14 +132,13 @@ y una estrategia para obtener y mantener control operacion total de la frontera.
 acciones apropiadas para alocar todos los recursos disponibles legalmente para
 construir de forma immediata, operar, controlar, o establecer contratos para
 construir, operar o controlar facilidades para detener extranjeros sobre o cerca
-al borde con Mexico.
+de la frontera con Mexico.
 
 (b) La Secretaría debe tomar toda la acción apropiada y alocar todos los recursos
 disponibles legalmente para asignar oficiales de asilo a los centros de detención
-de immigrantes, con el próposito de aceptar referencias de asilo y conducir
+de immigrantes, con el próposito de aceptar referencias de asilo y hacer
 determinaciones de amenaza, de acuerdo en lo especificado en la sección 235(b)(1)
-del INA (8 U.S.C. 1225(b)(1)) y las regulaciones aplicables respecto al miedo
-razonable que determina las regulaciones aplicables.
+del INA (8 U.S.C. 1225(b)(1)) y aplicar regulaciones adecuadas a base de esta determinacion. 
 
 (c) El fiscal general deberá, tomar todas las acciones apropiadas y alocar
 todos los recursos legalmente disponibles para asignar jueces de immigración a
@@ -154,7 +153,7 @@ por violaciones a la ley de immigración tras terminar sus procedimientos de rem
 o su remoción del país, bajo lo permitido por la ley. La secretaría debera emitir nuevas
 guías para todos los oficiales del departamento de seguridad nacional sobre el uso apropiado
 de autoridad en detención bajo el INA, incluyendo la terminación de la práctica comunmente
-llama "atrapar y soltar"(catch and release), donde a los extranjeros son frecuentemente
+llamada "atrapar y soltar"(catch and release), donde a los extranjeros son frecuentemente
 liberados en los Estados Unidos, poco después de ser capturados por violaciones de leyes
 de immigración.
 
@@ -241,7 +240,7 @@ de victimas de trata de blancas de 2008 (8 U.S.C. 1232) y la sección 462(g)(s)
 del Acta de seguridad nacional de 2002 (6 U.S.C. 279(g)(2)), para asegurar que los menores
 no acompañados sea propiamente procesados, reciban tratamiento apropiado y sean
 puestos en custodia del departamento de seguridad nacional, y,
-cuando sea apropiado, sean seguramente repatriados de acuerdo con la ley.
+cuando sea apropiado, sean repatriados de modo seguro de acuerdo con la ley.
 
 **Sección 12. Autorización para ingresar a territorio federal**. La secretariá,
 en conjunto con el secretario del interior y otras agencias, como sea necesario,
@@ -262,7 +261,7 @@ con mayor prioridad las ofensas que estén conectadas con la frontera sur.
 
 **Sección 14. Transparencía en el gobierno**. La secretaría debe, mensualmente
 y de forma que este disponible al público, reportar información y estadisticas
-en los extranjeros detenidos en o cerca al borde, usando un metodo uniforme de
+sobre los extranjeros detenidos en o cerca de la frontera, usando un metodo uniforme de
 reporte para todos los miembros del departamento de seguridad, en un formato que sea
 facilmente digerible por el público.
 
