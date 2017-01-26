@@ -26,7 +26,7 @@ de immigración de la nación sean ejecutadas correctamente, yo ordeno lo
 siguiente:
 
 **Sección 1. Próposito.** La seguridad de la frontera es criticamente importante
-para la seguridad de los Estados Unidos. Extraños que entran de forma ilegal
+para la seguridad de los Estados Unidos. Extranjeros que entran de forma ilegal
 a los Estados Unidos sin inspección o admisión presentan una amenaza a la seguridad
 nacional y la seguridad pública. Tales extranjeros no han sido identificados o
 inspeccionados por oficiales de immigración para determinar su admisibilidad
@@ -34,7 +34,7 @@ a los Estados Unidos. El reciente crecimiento en immigración ilegal en la
 frontera del sur con Mexico ha agregado una carga a los recursos federales y
 abrumado a las agencias a cargo de la seguridad en la frontera y aplicación de
 la ley de immigración, al igual que en las comunidades locales donde estos
-extraños residen.
+extranjeros residen.
 
 
 Organizaciones criminales transnacioanles operan redes de trafico de drogas
@@ -103,7 +103,7 @@ título 5, del codigo de los Estados Unidos.
 y directivas reglamentarias promovidas por las agencias.
 
 (h) "Control Operacional" se refiere a la prevención de las entradas ilegales
-a los Estados Unidos, incluyendo entradas de terroristas, otros extraños ilegales,
+a los Estados Unidos, incluyendo entradas de terroristas, otros extranjeros ilegales,
 instrumentos de terrorismo, narcoticos, y otro contrabando.
 
 **Sección 4. Seguridad física de la frontera sur de los Estados Unidos** La secretaría
