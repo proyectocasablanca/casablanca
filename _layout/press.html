@@ -15,16 +15,20 @@
                             </a>
                         </h4>
                     </div>
-                    <div class="panel-collapse collapse in" role="tabpanel" id="executiveorders" aria-labelledby="collapseListGroupHeading1" aria-expanded="true">
-                    <nav>
-                      <ul class="nav nav-pills nav-stacked">
-                          <li>
-                              <a href="/the-press-office/2017/01/25/executive-order-border-security-and-immigration-enforcement-improvements/">
-                                Seguridad en la Frontera y Mejoras a la Aplicación de Leyes de Immigración
-                              </a>
-                          </li>
-                      </ul>
-                    </nav>
+                    <div class="panel-collapse collapse in" role="tabpanel" id="executiveorders">
+                        <nav>
+                          <ul class="nav nav-pills nav-stacked">
+                              {{#each pages}}
+                                {{#ifeq category "executive-orders"}}
+                                  <li {{#ifeq ../page.url url}}class="active"{{/ifeq}}>
+                                      <a href="/{{url}}">{{title}}<br>
+                                          <strong><span>{{formatDate date 'MMM Do YY'}}</span></strong>
+                                      </a>
+                                  </li>
+                                {{/ifeq}}
+                          {{/each}}
+                          </ul>
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -42,3 +46,4 @@
         {{> footer}}
     </body>
 </html>
+
