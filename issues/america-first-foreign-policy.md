@@ -4,7 +4,7 @@ name: America First Foreign Policy
 layout: issues
 ---
 
-# America First Foreign Policy
+# America Primero, Politica Extranjero
 
 La Administración Trump está comprometida con una política extranjero enfocado en los intereses estadounidense y la seguridad nacional estadounidense.
 La paz a través de la fuerza estará en el centro de esa política extranjero. Este principio hará posible un mundo estable, más pacífico, con menos conflictos y más comprensión.
