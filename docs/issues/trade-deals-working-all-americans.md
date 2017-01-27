@@ -6,7 +6,7 @@ source:
   title: "Trade Deals Working All Americans"
 ---
 
-# Acuerdos de Comercio Trabajando Para Todo Americanos
+# Acuerdos de Comercio Que Trabajen Para Todos Los Americanos
 
 Por mucho tiempo, Americanos se han visto obligados de acceptar acuerdos de comercio que pone los intereses de los
 que estan enterados y los élite de Washington sobre los intereses de hombres y mujeres trabajadores de este pais.
