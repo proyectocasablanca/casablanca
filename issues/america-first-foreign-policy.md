@@ -19,7 +19,7 @@ Nuestra Fuerza Aérea es aproximadamente is un tercio menos que en 1991. El Pres
 debe ser incuestionable.
 
 Finalmente, persiguiendo una politica extranjero en base de interéses Americano, abrazaremos la diplomacia. El mundo debe saber
-que no nos vamos al extranjer en búsqueda de enemigos, que nosotors siempre estamos felizes cuando enemigos viejos se convierten
+que no nos vamos al extranjero en búsqueda de enemigos, que nosotors siempre estamos felizes cuando enemigos viejos se convierten
 en amgios, y cuando viejos amigos se convierten en aliados.
 
 El mundo será más pacífico y más próspero con un América más fuerte y más respetada.
