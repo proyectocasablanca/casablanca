@@ -1,7 +1,9 @@
 ---
 url: issues/bringing-back-jobs-and-growth
-name: Bringing Back Jobs and Growth
 layout: issues
+source:
+  url: https://www.whitehouse.gov/bringing-back-jobs-and-growth
+  title: "Bringing Back Jobs and Growth"
 ---
 
 # Restaurando Trabajos y Desarrollo

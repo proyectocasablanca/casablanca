@@ -6,7 +6,7 @@ source:
   title: "Standing Up For Our Law Enforcement Community"
 ---
 
-# Standing Up For Our Law Enforcement Community
+# Demonstrando Soporte Por Nuestra Comunidad Policial 
 
 Uno de los derechos fundamentales de cada Americano es vivir en una comunidad segura. La administración de Trump va a apoderar a nuestros agentes del orden público para que puedan hacer su trabajo y mantengan nuestras calles libres de crimen y violencia. La administración de Trump va ser una administración de ley y orden público. Le presidente Trump va honrar a nuestros agentes del orden público y los apoyare en su misión de proteger al público. El sentimiento anti-policía en EEUU es peligroso. La administración de Trump le pondrá un fin a este sentimiento.
 

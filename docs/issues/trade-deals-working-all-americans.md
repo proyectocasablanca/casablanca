@@ -1,10 +1,12 @@
 ---
 url: issues/trade-deals-working-all-americans
-name: Trade Deals Working For All Americans
 layout: issues
+source:
+  url: https://www.whitehouse.gov/trade-deals-working-all-americans
+  title: "Trade Deals Working All Americans"
 ---
 
-#   Acuerdos de Comercio Trabajando Para Todo Americanos
+# Acuerdos de Comercio Trabajando Para Todo Americanos
 
 Por mucho tiempo, Americanos se han visto obligados de acceptar acuerdos de comercio que pone los intereses de los
 que estan enterados y los élite de Washington sobre los intereses de hombres y mujeres trabajadores de este pais.
