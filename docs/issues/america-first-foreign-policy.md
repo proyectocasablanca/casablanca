@@ -1,10 +1,12 @@
 ---
 url: issues/america-first-foreign-policy
-name: America First Foreign Policy
 layout: issues
+source:
+  url: https://www.whitehouse.gov/america-first-foreign-policy
+  title: "America First Foriegn Policy"
 ---
 
-# America Primero, Politica Extranjero
+# Una Politica del Extranjero Que Pone America Primero
 
 La Administración Trump está comprometida con una política extranjero enfocado en los intereses estadounidense y la seguridad nacional estadounidense.
 La paz a través de la fuerza estará en el centro de esa política extranjero. Este principio hará posible un mundo estable, más pacífico, con menos conflictos y más comprensión.
