@@ -9,6 +9,6 @@ description: 'Este proyecto pretende proveer el contenido del website whitehouse
 dest: docs
 layout: bootstrap
 location: casablanca
-longname: 'Casa Blanca'
+longname: 'Proyecto Casa Blanca'
 theme: architect
 version: 0.14.0

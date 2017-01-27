@@ -1,19 +1,14 @@
 ---
 url: /
 ---
-# {{site.longname}}
+# {{site.longname}} 
 
-## La inauguración de Donald J. Trump
+El objetivo de #ProyectoCasaBlanca es hacer disponible el contenido de whitehouse.gov a personas que hablan español. Traducimos las transcripciones de las propuestas legislativas del presidente al igual que sus notas de prensa. Somos un grupo de jóvenes Latinxs que reconocen lo importante que es estar informado sin importar qué idioma hablan.
 
-[Ver video](https://www.youtube.com/watch?v=1mWzuBmB8QY)
+#ProyectoCasaBlanca aims to provide Spanish-speakers with access to relevant information posted on whitehouse.gov. We translate the transcripts of the president’s legislative proposals and press briefings. We are an independent group of Latinxs who recognize the importance of staying informed regardless of language preference.
+
+<center>
+Para contribuir a este proyecto, abre un issue en github. O comunicate con los administradores.
+</center>
 
 ![alt text](/images/whitehouse-rainbow.jpg "White House")
-
-
-Este proyecto pretende proveer el contenido del website whitehouse.gov para la comunidad hispanoparlante, e intenta ser lo más neutral posible, de ninguna forma busca endosar a la administración actual, o mostrar soporte hacia un partido politico o individuos.
-
-
-This site doesn’t intent to endorse the administration, we only hope to make the content of whitehouse.gov available to the  spanish community, as much as we can. Along with some resources and news that will inform them about the current administration.
-
-Para contribuir a este proyecto, abre un issue en github. O comunicate con los administradores.
-
