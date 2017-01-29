@@ -1,6 +1,8 @@
 ---
 url: issues/america-first-foreign-policy
 layout: issues
+title: "Issues: Una Politica del Extranjero Que Pone America Primero"
+date: 2017-01-23
 source:
   url: https://www.whitehouse.gov/america-first-foreign-policy
   title: "America First Foriegn Policy"

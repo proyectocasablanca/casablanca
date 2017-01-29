@@ -2,6 +2,7 @@
 name: Contributing
 title: Contributing
 url: contributing
+date: 2017-01-23
 ---
 
 # Contributing

@@ -4,7 +4,7 @@ url: the-press-office/2017/01/24/executive-order-expediting-environmental-review
 name: "Executive Order Expediting Environmental Reviews and Approvals For High Priority Infrastructure Projects"
 category: "executive-orders"
 description: "La inversión en infraestructura refuerza nuestra plataforma económica, hace que Estados Unidos sea más competitivo, genere millones de empleos, incremente los salarios de los trabajadores estadounidenses y reduzca los costos de bienes y servicios para las familias y los consumidores estadounidenses"
-title: "Acelerar revisiones y aprobaciones ambientales para proyectos de infraestructura de alta prioridad"
+title: "Orden Ejecutiva: Acelerar revisiones y aprobaciones ambientales para proyectos de infraestructura de alta prioridad"
 source:
   title: "Executive Order Expediting Environmental Reviews and Approvals For High Priority Infrastructure Projects"
   url: "https://www.whitehouse.gov/the-press-office/2017/01/24/executive-order-expediting-environmental-reviews-and-approvals-high"

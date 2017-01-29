@@ -1,6 +1,8 @@
 ---
 url: issues/trade-deals-working-all-americans
 layout: issues
+title: "Issues: Acuerdos de Comercio Que Trabajen Para Todos Los Americanos"
+date: 2017-01-23
 source:
   url: https://www.whitehouse.gov/trade-deals-working-all-americans
   title: "Trade Deals Working All Americans"
