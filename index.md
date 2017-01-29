@@ -1,7 +1,7 @@
 ---
 url: /
 ---
-# {{site.longname}} 
+# {{site.longname}}
 
 El objetivo de #ProyectoCasaBlanca es hacer disponible el contenido de whitehouse.gov a personas que hablan español. Traducimos las transcripciones de las propuestas legislativas del presidente al igual que sus notas de prensa. Somos un grupo de jóvenes Latinxs que reconocen lo importante que es estar informado sin importar qué idioma hablan.
 
@@ -12,3 +12,4 @@ Para contribuir a este proyecto, abre un issue en github. O comunicate con los a
 </center>
 
 ![alt text](/images/whitehouse-rainbow.jpg "White House")
+
