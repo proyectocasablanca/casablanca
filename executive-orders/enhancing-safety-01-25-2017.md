@@ -14,7 +14,6 @@ date: 2017-01-25
 
 # Orden Ejecutiva
 
-- - - - - - -
 
 ## Mejorando la seguridad publica en el interior de los Estados Unidos
 

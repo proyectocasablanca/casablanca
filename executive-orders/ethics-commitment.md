@@ -1,6 +1,6 @@
 ---
 category: executive-orders
-date: "2017-01-28"
+date: 2017-01-28
 description: "Promesa de ética. Cada persona designada en cada agencia ejecutiva designada en o después del 20 de enero de 2017, deberá firmar, y al firmar se compromete contractualmente a, la siguiente promesa"
 layout: press
 name: "Executive Order: ETHICS COMMITMENTS BY EXECUTIVE BRANCH APPOINTEES"
@@ -8,9 +8,8 @@ source:
   title: "Executive Order: ETHICS COMMITMENTS BY EXECUTIVE BRANCH APPOINTEES"
   url: "https://www.whitehouse.gov/the-press-office/2017/01/28/executive-order-ethics-commitments-executive-branch-appointees"
 title: "Orden Ejecutiva: Compromisos Éticos de los Diputados Asignados por la Rama Ejecutiva"
-url: "the-press-office/2017/01/28/executive-order-ethics-commitments-executive-branch-appointees"
+url: the-press-office/2017/01/28/executive-order-ethics-commitments-executive-branch-appointees
 ---
-
 
 # Orden Ejecutiva
 
