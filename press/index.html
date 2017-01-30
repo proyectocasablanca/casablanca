@@ -4,3 +4,21 @@ name: press
 layout: press
 ---
 
+<div class="jumbotron">
+  <h1>Ultimas traducciones</h1>
+  <p>Aquí puedes encontrar una lista de todo el contenido disponible</p>
+</div>
+<div class="latests-translations">
+  <ul class="list-unstyled">
+  {{#eachWithSort pages 'timestamp' '-'}}
+    {{#if title}}
+      <li {{#ifeq ../page.url url}}class="active"{{/ifeq}}>
+          <a href="/{{url}}">{{title}}<br>
+              <strong><span>{{formatDate date 'MMM Do YY'}}</span></strong>
+          </a>
+      </li>
+    {{/if}}
+  {{/eachWithSort}}
+  </ul>
+</div>
+

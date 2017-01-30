@@ -1,6 +1,8 @@
 ---
 url: issues/america-first-energy
 layout: issues
+title: "Issues: Un Plan Energético Que Pone América Primero"
+date: 2017-01-23
 source:
   url: https://www.whitehouse.gov/america-first-energy
   title: "America First Energy"

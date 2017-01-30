@@ -1,6 +1,8 @@
 ---
 url: issues/making-our-military-strong-again
 layout: issues
+title: "Issues: Haciendo Que Nuestro Ejercito Sea Fuerte De Nuevo"
+date: 2017-01-23
 source:
   url: https://www.whitehouse.gov/making-our-military-strong-again
   title: "Making Our Militarty Strong Again"

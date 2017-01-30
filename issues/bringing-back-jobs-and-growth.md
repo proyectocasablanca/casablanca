@@ -1,6 +1,8 @@
 ---
 url: issues/bringing-back-jobs-and-growth
 layout: issues
+title: "Issues: Restaurando Trabajos y Desarrollo"
+date: 2017-01-23
 source:
   url: https://www.whitehouse.gov/bringing-back-jobs-and-growth
   title: "Bringing Back Jobs and Growth"

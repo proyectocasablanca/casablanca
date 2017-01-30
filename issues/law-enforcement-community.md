@@ -1,6 +1,8 @@
 ---
 url: issues/law-enforcement-community
 layout: issues
+title: "Issues: Demonstrando Soporte Por Nuestra Comunidad Policial"
+date: 2017-01-23
 source:
   url: https://www.whitehouse.gov/law-enforcement-community
   title: "Standing Up For Our Law Enforcement Community"
