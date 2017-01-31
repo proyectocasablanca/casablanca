@@ -29,3 +29,26 @@ footer {
     }
 }
 
+.expand-collapse-anchor {
+    .hide-text {
+        display: block;
+    }
+
+    .read-more {
+        display: none;
+    }
+}
+
+.enable-preview {
+    .content-container {
+        height: 170px;
+        overflow: hidden;
+    }
+    .hide-text {
+        display: none;
+    }
+    .read-more {
+        display: block;
+    }
+}
+
