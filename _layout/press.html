@@ -18,7 +18,7 @@
                     <div class="panel-collapse collapse in" role="tabpanel" id="executiveorders">
                         <nav>
                           <ul class="nav nav-pills nav-stacked">
-                              {{#eachWithSort pages 'timestamp' '+'}}
+                              {{#eachWithSort pages 'timestamp' '-'}}
                                 {{#ifeq category "executive-orders"}}
                                   <li {{#ifeq ../page.url url}}class="active"{{/ifeq}}>
                                       <a href="/{{url}}">{{title}}<br>
