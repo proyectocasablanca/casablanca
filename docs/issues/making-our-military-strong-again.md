@@ -10,6 +10,8 @@ source:
 
 # Haciendo Que Nuestro Ejercito Sea Fuerte De Nuevo
 
+<div class="content-container">
+
 Nuestros hombres y mujeres en uniforme son la fuerza de combate mas grade del mundo y los guardianes de la libertad Americana. Por eso la administración de Trump reconstruirá nuestro ejercito y hará todo lo posible para que los veteranos reciban el cuidado que merecen. 
 
 Nuestro ejercito necesita toda la capacidad disponible a su alcance para defender a América. No podemos dejar que otras naciones superen nuestra capacidad militar. La administración de Trump buscara al grado mas alto de la preparación militar 
@@ -25,3 +27,9 @@ No olvidemos que nuestro ejercito esta compuesto por personas heroicas. También
 Le daremos a los veteranos el cuidado que necesitan y cuando lo necesiten. No deberá haber mas viajes largos. No mas largas esperas o atraso de citas. No mas burocracia excesiva. Solo el cuidado y  atención que  han ganado por su sacrificio y servicio a nuestro país. La administración de Trump transformara al Departamento of Veteranos para responder a la necesidades de  nuestros miembros y veteranas del siglo 21. Nuestra reformas comenzaran por despedir a ejecutivos corruptos y incompetentes del Departamento de Veteranos que han defraudado a nuestros veteranos, modernizado la burocracia, y a apoderar nuestros doctores y enfermero/as para asegurar que nuestros veteranos tengan el mejor cuidado posible en una manera oportuno. 
 
 Debajo del al administración de Trump,  America mantendrá sus compromisos a nuestros veteranos.  
+
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <span class="read-more">...LEER MAS</span>
+  <span class="hide-text">...ESCONDE</span>
+</a>

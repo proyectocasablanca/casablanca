@@ -1,4 +1,12 @@
 /**
  * This is the default Javascript file
  **/
-console.log('Javascript is working');
+$(document).ready(function() {
+  $('a.expand-collapse-anchor').on('click', function(e){
+    e.preventDefault();
+    var parentNode = e.currentTarget.parentNode;
+    var pageContent = $(parentNode)
+    pageContent.toggleClass('enable-preview');
+  });
+
+});
