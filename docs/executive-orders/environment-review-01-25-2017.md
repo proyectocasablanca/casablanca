@@ -18,6 +18,7 @@ date: 2017-01-24
 
 ## Acelerar revisiones y aprobaciones ambientales para proyectos de infraestructura de alta prioridad
 
+<div class="content-container">
 
 Por la autoridad que me ha conferido la Presidencia por la Constitución y las
 leyes de los Estados Unidos de América, con la presente ordeno lo siguiente:
@@ -96,3 +97,8 @@ DONALD J. TRUMP
 LA CASA BLANCA,
 24 de enero de 2017.
 
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <button type="button" class="btn btn-primary content-btn read-more">LEER MAS</button>
+  <button type="button" class="btn btn-primary content-btn hide-text">ESCONDE</button>
+</a>
