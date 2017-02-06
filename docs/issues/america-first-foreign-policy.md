@@ -10,6 +10,8 @@ source:
 
 # Una Politica del Extranjero Que Pone America Primero
 
+<div class="content-container">
+
 La Administración Trump está comprometida con una política extranjero enfocado en los intereses estadounidense y la seguridad nacional estadounidense.
 La paz a través de la fuerza estará en el centro de esa política extranjero. Este principio hará posible un mundo estable, más pacífico, con menos conflictos y más comprensión.
 
@@ -27,3 +29,10 @@ que no nos vamos al extranjero en búsqueda de enemigos, que nosotors siempre es
 en amgios, y cuando viejos amigos se convierten en aliados.
 
 El mundo será más pacífico y más próspero con un América más fuerte y más respetada.
+
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <span class="read-more">...LEER MAS</span>
+  <span class="hide-text">...ESCONDE</span>
+</a>
+

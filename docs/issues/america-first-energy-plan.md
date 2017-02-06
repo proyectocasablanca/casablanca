@@ -10,6 +10,8 @@ source:
 
 # Un Plan Energético Que Pone América Primero 
 
+<div class="content-container">
+
 La energía es una parte esencial de la vida Americana y un foco de la economía global. La Administración de Trump esta comprometida a las políticas energéticas que bajen el costo que pagan los Americanos trabajadores y que maximiza el uso de los recursos Americanos, liberándonos de la dependencia del petróleo extranjero. 
 
 Ha pasado mucho tiempo que nuestra industria energética ha sido comprometida por regulaciones pesadas. El Presidente Trump esta comprometido a eliminar las políticas innecesarias y perjudiciales como el Climate Action Plan y la regla de Waters of the US. Levantando estas restricciones ayudara a los trabajadores Americanos, levantando salarios mas de $30 billones en los próximos 7 años. 
@@ -24,4 +26,8 @@ Finalmente, nuestro necesidades energías tiene que complementar nuestra respons
 
 Un futuro brillante depende de políticas energéticas que estimulan nuestra economía, aseguran nuestra seguridad y protegen nuestro bienestar. La Administración de Trump hará ese futuro una realidad. 
 
-
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <span class="read-more">...LEER MAS</span>
+  <span class="hide-text">...ESCONDE</span>
+</a>

@@ -10,6 +10,8 @@ source:
 
 # Acuerdos de Comercio Que Trabajen Para Todos Los Americanos
 
+<div class="content-container">
+
 Por mucho tiempo, Americanos se han visto obligados de acceptar acuerdos de comercio que pone los intereses de los
 que estan enterados y los élite de Washington sobre los intereses de hombres y mujeres trabajadores de este pais.
 El resultado, los pueblos y cuidades industriales han visto cerrar sus fábricas y sus trabajos bien pagados mover al extranjero.
@@ -36,3 +38,10 @@ y pondrán a los intereses de los Estados Unidos primero.
 
 Luchando por acuerdos de comercio justa pero duras, nosotors podemos devolver los trabajos a las costas de America, aumentar
  salario y apoyar las fabricaciónes Estadounidense.
+
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <span class="read-more">...LEER MAS</span>
+  <span class="hide-text">...ESCONDE</span>
+</a>
+

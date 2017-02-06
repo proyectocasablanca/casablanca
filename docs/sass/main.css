@@ -20,3 +20,19 @@ footer {
 
 .latests-translations li {
   padding: 10px 0; }
+
+.expand-collapse-anchor .hide-text {
+  display: block; }
+
+.expand-collapse-anchor .read-more {
+  display: none; }
+
+.enable-preview .content-container {
+  height: 170px;
+  overflow: hidden; }
+
+.enable-preview .hide-text {
+  display: none; }
+
+.enable-preview .read-more {
+  display: block; }
