@@ -10,7 +10,7 @@ layout: press
 </div>
 <div class="latests-translations">
   <ul class="list-unstyled">
-  {{#eachWithSort pages 'timestamp' '-'}}
+  {{#eachWithSort pages 'date' '-'}}
     {{#if title}}
       <li {{#ifeq ../page.url url}}class="active"{{/ifeq}}>
           <a href="/{{url}}">{{title}}<br>

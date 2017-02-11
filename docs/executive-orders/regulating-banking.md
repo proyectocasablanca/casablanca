@@ -1,6 +1,7 @@
 ---
+date: 2017-02-03
 layout: press
-url: the-press-office/2017/02/03/presidential-executive-order-core-principles-regulating-united-states
+url: "the-press-office/2017/02/03/presidential-executive-order-core-principles-regulating-united-states"
 name: "Executive Order on Core Principles for Regulating the United States Financial System"
 category: "executive-orders"
 description:  "La política de mi Administración será la de regular el sistema financiero de los Estados Unidos de manera coherente con los siguientes principios de regulación, que se conocerán como los Principios Básicos"
@@ -8,6 +9,7 @@ title: "Orden Ejecutiva: Principios Basicos Para La Regulation De El Sistema Fin
 source:
   title: "Presidential Executive Order on Core Principles for Regulating the United States Financial System"
   url: https://www.whitehouse.gov/the-press-office/2017/02/03/presidential-executive-order-core-principles-regulating-united-states
+
 ---
 
 # Orden Ejecutiva
