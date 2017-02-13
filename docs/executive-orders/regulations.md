@@ -17,6 +17,8 @@ date: 2017-01-31
 
 ## Sobre Reducción de Regulación y Control de Costos Regulatorios
 
+<div class="content-container">
+
 Por la autoridad que me ha conferido la Constitución y las leyes de los Estados
 Unidos de América, incluida la Ley de Presupuestos y Contabilidad de 1921,
 enmendada (31 USC 1101 y ss. ), Sección 1105 del título 31 del Código de los
@@ -136,3 +138,8 @@ LA CASA BLANCA,
 
 30 de enero de 2017.
 
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <button type="button" class="btn btn-primary content-btn read-more">LEER MAS</button>
+  <button type="button" class="btn btn-primary content-btn hide-text">ESCONDE</button>
+</a>

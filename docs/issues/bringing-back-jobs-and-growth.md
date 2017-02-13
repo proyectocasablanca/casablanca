@@ -24,6 +24,7 @@ Manteniéndose al lado con los negocios y trabajadores Americanos, las política
 
 </div>
 <a class="expand-collapse-anchor" href="javascript:void(0);">
-  <span class="read-more">...LEER MAS</span>
-  <span class="hide-text">...ESCONDE</span>
+  <button type="button" class="btn btn-primary content-btn read-more">LEER MAS</button>
+  <button type="button" class="btn btn-primary content-btn hide-text">ESCONDE</button>
 </a>
+

@@ -17,6 +17,8 @@ date: 2017-01-25
 
 ## Seguridad en la Frontera y Mejoras a la Aplicación de Leyes de Immigración
 
+<div class="content-container">
+
 Por la autoridad conferida en mi como presidente por la constitución y las
 leyes de los Estados Unidos de America, incluyendo el acta de Immigración
 y Nacionalidad (8 U.S.C. 1101 et seq.) (INA), el acta de asegurar la
@@ -296,4 +298,10 @@ empleados, o agentes o ninguna otra persona.
 DONALD J. TRUMP
 
 THE WHITE HOUSE, January 25, 2017.
+
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <button type="button" class="btn btn-primary content-btn read-more">LEER MAS</button>
+  <button type="button" class="btn btn-primary content-btn hide-text">ESCONDE</button>
+</a>
 

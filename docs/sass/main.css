@@ -21,6 +21,9 @@ footer {
 .latests-translations li {
   padding: 10px 0; }
 
+.content-btn {
+  margin-top: 20px; }
+
 .expand-collapse-anchor .hide-text {
   display: block; }
 
@@ -28,7 +31,7 @@ footer {
   display: none; }
 
 .enable-preview .content-container {
-  height: 170px;
+  height: 250px;
   overflow: hidden; }
 
 .enable-preview .hide-text {

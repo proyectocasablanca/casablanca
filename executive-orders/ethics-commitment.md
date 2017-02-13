@@ -16,6 +16,8 @@ url: the-press-office/2017/01/28/executive-order-ethics-commitments-executive-br
 
 ## Compromisos Éticos de los Diputados Asignados por la Rama Ejecutiva
 
+<div class="content-container">
+
 Por la autoridad que me ha conferido la Presidencia de los Estados Unidos por
 la Constitución y las leyes de los Estados Unidos de América, incluida la
 sección 301 del título 3 del Código de los Estados Unidos y las secciones 3301
@@ -377,3 +379,8 @@ sujeción a la disponibilidad de créditos.
 DONALD J. TRUMP
 
 
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <button type="button" class="btn btn-primary content-btn read-more">LEER MAS</button>
+  <button type="button" class="btn btn-primary content-btn hide-text">ESCONDE</button>
+</a>

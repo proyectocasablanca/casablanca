@@ -16,6 +16,8 @@ date: 2017-01-20
 
 ## Orden Ejecutiva: Minimizando la Carga Económica de la Ley de Protección al Paciente y Asistencia Asequible (ACA) Pendiente de Derogación
 
+<div class="content-container">
+
 Por la autoridad que me ha conferido la Presidencia la Constitución y las leyes
 de los Estados Unidos de América, se ordena lo siguiente:
 
@@ -81,3 +83,8 @@ DONALD J. TRUMP
 
 LA CASA BLANCA, 20 de enero de 2017.
 
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <button type="button" class="btn btn-primary content-btn read-more">LEER MAS</button>
+  <button type="button" class="btn btn-primary content-btn hide-text">ESCONDE</button>
+</a>

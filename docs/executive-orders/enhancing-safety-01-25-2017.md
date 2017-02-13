@@ -17,6 +17,7 @@ date: 2017-01-25
 
 ## Mejorando la seguridad publica en el interior de los Estados Unidos
 
+<div class="content-container">
 
 Por la autoridad que se me otorga como presidente por la consitutición y las
 leyes de los Estados Unidos de America, incluyendo el Acta de Immigración
@@ -263,3 +264,8 @@ DONALD J. TRUMP
 THE WHITE HOUSE, January 25, 2017.
 
 
+</div>
+<a class="expand-collapse-anchor" href="javascript:void(0);">
+  <button type="button" class="btn btn-primary content-btn read-more">LEER MAS</button>
+  <button type="button" class="btn btn-primary content-btn hide-text">ESCONDE</button>
+</a>
